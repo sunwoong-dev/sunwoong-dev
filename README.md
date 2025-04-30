@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Sunwoong%20Dev%20Portfolio&fontSize=35&animation=fadeIn" />
+</p>
+
 <h1 align="center">SunWoong's GitHub</h1>
 
 <p align="center">
@@ -26,6 +30,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat&logo=none&logoColor=white)
+
+---
+
+### 🎞️ Highlight
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
+</p>
 
 ---
 
