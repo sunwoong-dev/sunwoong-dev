@@ -1,25 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Sunwoong!</h1>
+<h1 align="center">SunWoong's GitHub</h1>
 
 <p align="center">
-  💻 I'm a backend developer who loves to learn and build.  
-  🚀 I enjoy working on meaningful projects and growing day by day.
+  끊임없이 배우고, 꾸준히 성장하며,<br>
+  사용자를 위한 실용적인 서비스를 만들어가는 백엔드 개발자 문선웅입니다.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
+
+#### 📌 Language
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### ⚙️ Framework / Tool
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+#### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat&logo=none&logoColor=white)
 
 ---
 
 ### 📘 Notable Projects
 
-- 🔍 [JOBIS](https://github.com/yourgithub/J.O.B.I.S.) – AI 기반 면접 & 피드백 시스템  
-- 🏋️ [모이핏](https://github.com/yourgithub/moyfit) – 운동 메이트 매칭 서비스  
-- 📊 [Programmers Algorithm Log](https://github.com/yourgithub/programmers)
+- 🔍 [JOBIS](https://github.com/sunwoong-dev/J.O.B.I.S.) – OpenAI와 LangChain 모델을 활용한 맞춤형 취업 지원 서비스  
+- 🏋️ [모이핏](https://github.com/sunwoong-dev/moyfit) – 거리기반 운동 메이트 매칭 플랫폼
+- 📊 [Programmers Algorithm Log](https://github.com/sunwoong-dev/Algorithm)
 
 ---
 
@@ -35,5 +44,5 @@
 
 ### 📫 Contact
 
-- Email: youremail@example.com
-- GitHub: [github.com/YOUR_GITHUB_ID](https://github.com/YOUR_GITHUB_ID)
+- Email: tjsdnd3817@gmail.com
+- GitHub: [github.com/YOUR_GITHUB_ID](https://github.com/sunwoong-dev)
