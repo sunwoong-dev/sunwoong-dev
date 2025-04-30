@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffdde1,100:ee9ca7&height=250&section=header&text=SunWoong's%20GitHub&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffdde1,100:ee9ca7&height=250&section=header&text=SunWoong's%20GitHub&fontSize=45&animation=fadeIn" />
 </p>
 
 
 <p align="center">
-  끊임없이 배우고, 꾸준히 성장하며,<br>
-  사용자를 위한 실용적인 서비스를 만들어가는 백엔드 개발자 문선웅입니다.
+  <strong>끊임없이 배우고, 꾸준히 성장하며,</strong><br>
+  <strong>사용자를 위한 실용적인 서비스를 만들어가는 백엔드 개발자 문선웅입니다.</strong>
 </p>
 
 ---
