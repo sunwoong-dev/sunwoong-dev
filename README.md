@@ -51,9 +51,9 @@
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunwoong-dev&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwoong-dev&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -61,4 +61,4 @@
 ### 📫 Contact
 
 - Email: tjsdnd3817@gmail.com
-- GitHub: [github.com/YOUR_GITHUB_ID](https://github.com/sunwoong-dev)
+- GitHub: [github.com/sunwoong-dev](https://github.com/sunwoong-dev)
