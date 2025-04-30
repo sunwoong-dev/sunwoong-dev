@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Sunwoong%20Dev%20Portfolio&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=SunWoong's%20GitHub&fontSize=35&animation=fadeIn" />
 </p>
 
-<h1 align="center">SunWoong's GitHub</h1>
 
 <p align="center">
   끊임없이 배우고, 꾸준히 성장하며,<br>
