@@ -42,8 +42,8 @@
 
 ### 📘 Notable Projects
 
-- 🔍 [JOBIS](https://github.com/sunwoong-dev/J.O.B.I.S.) – OpenAI와 LangChain 모델을 활용한 맞춤형 취업 지원 서비스  
-- 🏋️ [모이핏](https://github.com/sunwoong-dev/moyfit) – 거리기반 운동 메이트 매칭 플랫폼
+- 🔍 [JOBIS](https://github.com/2024-SMHRD-DCX-BigData-16/J.O.B.I.S..git) – OpenAI와 LangChain 모델을 활용한 맞춤형 취업 지원 서비스  
+- 🏋️ [모이핏](https://github.com/2024-SMHRD-DCX-BigData-16/MOYFIT.git) – 거리기반 운동 메이트 매칭 플랫폼
 - 📊 [Programmers Algorithm Log](https://github.com/sunwoong-dev/Algorithm)
 
 ---
