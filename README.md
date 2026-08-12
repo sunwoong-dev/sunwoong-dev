@@ -62,7 +62,6 @@
 
 - 🤖 [JOBIS](https://github.com/sunwoong-dev/J.O.B.I.S.) — OpenAI·LangChain 기반 AI 취업 준비 도우미 (모의면접·자소서 피드백, STT/TTS)
 - 🏋️ [MOYFIT](https://github.com/sunwoong-dev/MOYFIT) — 카카오 지도 API 기반 거리 매칭 운동 파트너·모임 플랫폼 (팀장)
-- 📝 [Algorithm](https://github.com/sunwoong-dev/Algorithm) — 프로그래머스 알고리즘 풀이 로그
 
 ---
 
