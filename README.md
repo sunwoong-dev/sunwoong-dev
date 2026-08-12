@@ -65,15 +65,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunwoong-dev&show_icons=true&theme=graywhite" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwoong-dev&layout=compact&theme=graywhite" />
-</p>
-
----
 
 ### 📫 Contact
 
